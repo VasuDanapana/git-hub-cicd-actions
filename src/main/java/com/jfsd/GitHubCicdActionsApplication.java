@@ -11,7 +11,7 @@ public class GitHubCicdActionsApplication {
 	
 	@GetMapping("/getMessage")
 	public String message() {
-		return "Welcome to GIT Hub CICD Actions";
+		return "Welcome to GIT Hub CICD Actions.........";
 	}
 
 	public static void main(String[] args) {
